@@ -12,3 +12,4 @@ A repository containing basic implementations of popular sorting algorithms in c
   - Insertion Sort
   - Quick Sort
   - Merge Sort
+  - Heap Sort

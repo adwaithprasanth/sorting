@@ -6,7 +6,6 @@ Bubble Sort is a simple comparison-based sorting algorithm. It repeatedly steps 
 - Worst Case: O(n²)
 - Best Case: O(n) *(when the array is already sorted)*
 
----
 
 ## 🖥️ Output
 

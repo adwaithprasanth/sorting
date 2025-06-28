@@ -8,8 +8,9 @@ Bubble Sort is a simple comparison-based sorting algorithm. It repeatedly steps 
 
 ---
 
-## Output
+## 🖥️ Output
 
+```text
 Enter the number of elements (max 25):
 5
 Enter element 1:

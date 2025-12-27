@@ -1,10 +1,10 @@
-# ⚡ Quick Sort in C
+# Quick Sort 
 
 Quick Sort is a highly efficient sorting algorithm based on the divide-and-conquer principle. It picks a "pivot" element and partitions the array around the pivot such that elements less than the pivot go to the left, and those greater go to the right. This process is recursively applied to the sub-arrays.
 
 ---
 
-## 📊 Time Complexity
+## Time Complexity
 
 - **Worst Case:** O(n²)
 - **Best & Average Case:** O(n log n)
@@ -12,7 +12,7 @@ Quick Sort is a highly efficient sorting algorithm based on the divide-and-conqu
 
 ---
 
-## 🖥️ Output
+## Output
 
 ```text
 Enter the number of elements (max 25):

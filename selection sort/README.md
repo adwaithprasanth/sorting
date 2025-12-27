@@ -1,10 +1,10 @@
-# 🧠 Selection Sort in C
+# Selection Sort
 
 Selection Sort is a simple comparison-based sorting algorithm. It divides the array into a sorted and an unsorted part. It repeatedly selects the **smallest** (or largest) element from the unsorted part and moves it to the end of the sorted part.
 
 ---
 
-## 📊 Time Complexity
+## Time Complexity
 
 - **Worst Case:** O(n²)
 - **Best Case:** O(n²)
@@ -12,7 +12,7 @@ Selection Sort is a simple comparison-based sorting algorithm. It divides the ar
 
 ---
 
-## 💻 Output
+## Output
 
 ```text
 Enter the number of elements (max 25):

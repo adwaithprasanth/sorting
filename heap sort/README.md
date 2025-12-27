@@ -1,10 +1,10 @@
-# 🏗️ Heap Sort in C
+# Heap Sort
 
 Heap Sort is a fast, in-place sorting algorithm based on the binary heap data structure. It works by building a max heap and repeatedly extracting the maximum element to sort the array.
 
 ---
 
-## 📊 Time & Space Complexity
+## Time & Space Complexity
 
 - **Best Case:** O(n log n)
 - **Worst Case:** O(n log n)
@@ -12,7 +12,7 @@ Heap Sort is a fast, in-place sorting algorithm based on the binary heap data st
 
 ---
 
-## 🖥️ Output
+## Output
 
 ```text
 Enter the number of elements (max 25):

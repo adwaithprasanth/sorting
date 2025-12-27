@@ -1,10 +1,10 @@
-# 🧠 Insertion Sort in C
+# Insertion Sort
 
 Insertion Sort is a simple comparison-based sorting algorithm. It builds the final sorted array one item at a time by comparing the current element to its predecessors and placing it in the correct position.
 
 ---
 
-## 📊 Time Complexity
+## Time Complexity
 
 - **Worst Case:** O(n²)
 - **Best Case:** O(n) (when the array is already sorted)
@@ -12,7 +12,7 @@ Insertion Sort is a simple comparison-based sorting algorithm. It builds the fin
 
 ---
 
-## 🖥️ Output
+## Output
 
 ```text
 Enter the number of elements (max 25):

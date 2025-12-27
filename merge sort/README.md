@@ -1,10 +1,10 @@
-# 🧩 Merge Sort in C
+# Merge Sort
 
 Merge Sort is an efficient, stable, comparison-based sorting algorithm. It uses the divide-and-conquer approach to divide the array into two halves, recursively sort them, and then merge them.
 
 ---
 
-## 📊 Time Complexity
+## Time Complexity
 
 - **Worst Case:** O(n log n)
 - **Best Case:** O(n log n)
@@ -12,7 +12,7 @@ Merge Sort is an efficient, stable, comparison-based sorting algorithm. It uses 
 
 ---
 
-## 🖥️ Output
+## Output
 
 ```text
 Enter the number of elements (max 25):
